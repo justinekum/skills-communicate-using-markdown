@@ -8,7 +8,7 @@ var myVar = "Hello, world!";
 ```
 
 ### Task List
-- [X] Turn on GitHub Pages
+- [ ] Turn on GitHub Pages
 - [ ] Outline my portfolio
 - [ ] Introduce myself to the world
 
